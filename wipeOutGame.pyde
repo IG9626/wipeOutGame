@@ -2,7 +2,7 @@
 # 5-15-18 started at 1:38PM stoped at 1:50
 # 5-17-18 started at 12:53PM stopped at 2:05
 # 5-21-18 started at 1:00PM stopped at 2:15
-# Total time spent working on project: 32 minutes
+# Total time spent working on project: 3 hours 0 minutes
 
 from Blocks import Blocks
 def setup():
